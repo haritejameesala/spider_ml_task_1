@@ -76,7 +76,7 @@ requirements.txt
 ### Clone Repository
 
 ```bash
-git clone https://github.com/haritejameesala/AskMyPDF-spider-applied-ml-task-.git
+git clone https://github.com/haritejameesala/spider_ml_task_1.git
 cd AskMyPDF-spider-applied-ml-task-
 ```
 
@@ -122,9 +122,9 @@ http://127.0.0.1:5500
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot-1.png)
+![Screenshot 1](applied_ml_domain/screenshots/Screenshot-1.png)
 
-![Screenshot 2](screenshots/Screenshot-2.png)
+![Screenshot 2](applied_ml_domain/screenshots/Screenshot-2.png)
 
 ## Future Improvements
 
