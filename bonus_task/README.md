@@ -55,12 +55,7 @@ The project includes:
 
 The decreasing reconstruction loss demonstrates that the Autoencoder successfully learns meaningful compressed representations of Fashion-MNIST images.
 
-## Repository Contents
-
-- `code/` – Autoencoder implementation notebook
-- `results/` – Loss plots and reconstruction outputs
-
 ## Author
 
-Hari Teja  
+Hari Teja Meesala
 B.Tech CSE, NIT Trichy
