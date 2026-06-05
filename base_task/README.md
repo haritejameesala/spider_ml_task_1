@@ -74,7 +74,7 @@ These metrics are plotted using Matplotlib for performance analysis.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/haritejameesala/SPML-Task1.git
+git clone https://github.com/haritejameesala/spider_ml_task_1.git
 ```
 
 2. Install dependencies
@@ -91,5 +91,5 @@ jupyter notebook Fashion_MNIST.ipynb
 
 ## Author
 
-**Hari Teja**  
+**Hari Teja Meesala**  
 B.Tech CSE, National Institute of Technology Tiruchirappalli
